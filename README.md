@@ -1,5 +1,9 @@
 tl;dr: Bee's hardcase wallet exploded one time too many. After looking at what he wanted in a wallet and some research, design ensued.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 27862591700a810ebf772235c110fb2dcf11907c
 =======
 
 >>>>>>> 27862591700a810ebf772235c110fb2dcf11907c
